@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "935278193696",
+    "firebase_url": "https://rpi-dht11-monitor-a71e2-default-rtdb.firebaseio.com",
+    "project_id": "rpi-dht11-monitor-a71e2",
+    "storage_bucket": "rpi-dht11-monitor-a71e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935278193696:android:54856429d90d78a3e26045",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935278193696-rgl9jt33kn3dkg42t52eqhhua1p862o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTN9T4cCHXzs9SLl0pV8kj1Ju2WKRyDNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935278193696-rgl9jt33kn3dkg42t52eqhhua1p862o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
